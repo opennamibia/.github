@@ -6,7 +6,7 @@ To help reduce reinventing the wheel, we created Open Namibia as an archive to c
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=opennamibia.opennamibia)
 
-We are currently looking forward to more contributers. You can reach us on [@opennamibia](https://twitter.com/opennamibia) or email the current active contributor, Axel at axel@stoiclab.com.
+We are currently looking forward to more contributers. You can reach us on [@opennamibia](https://twitter.com/opennamibia) or email the current active contributor, Axel at axel@meyabase.com.
 
 # Top Namibian 🇳🇦 Gitbub users:
 
